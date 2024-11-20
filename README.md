@@ -6,7 +6,16 @@
 <h2>ℹ️ O que é o TweakIT?</h2> 
 </center>
 
-O TweakIT é um program simples que modifica várias configurações do seu computador rapidamente. Um programa simples, que modifica apenas o necessário para que você tenha uma performance incrível no seus jogos.
+O TweakIT é um program simples que modifica várias configurações do seu computador rapidamente. Um programa simples, que modifica apenas o necessário para que você tenha uma performance incrível no seus jogos. O programa foi feito para facilitar o seguimento do meu guia no youtube.
+
+<center>
+<h2> 🔴 Guia manual de otimização do Windows </h2>
+<p>
+   <a href="https://www.youtube.com/watch?v=43a_i_n5fkU&t">
+
+</p>
+
+</center>
 
 <center>
 <h2> 🛡️ Como desativar o Windows Defender </h2> 
