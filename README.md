@@ -10,9 +10,8 @@ O TweakIT é um program simples que modifica várias configurações do seu comp
 
 <center>
 <h2> 🔴 Guia manual de otimização do Windows </h2>
-<p>
-   <a href="https://www.youtube.com/watch?v=43a_i_n5fkU&t">
-
+<p align="center">
+   <a href="https://www.youtube.com/watch?v=43a_i_n5fkU&t"></a>
 </p>
 
 </center>
