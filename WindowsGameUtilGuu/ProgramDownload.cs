@@ -37,7 +37,7 @@ namespace WindowsGameUtilGuu
 
         internal static void InstallAutoruns()
         {
-            string downloadUrl = "https://cdn.discordapp.com/attachments/1308610810599309342/1308610854463340646/Autoruns.exe?ex=673e9254&is=673d40d4&hm=44940b0407ad9097847117732e04b1bb54afbadf30768fbd2b16a4b5ccb85faa&";
+            string downloadUrl = "https://live.sysinternals.com/autoruns.exe";
             string fileName = "Autoruns.exe";
             string downloadsPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "Downloads");
             string downloadPath = Path.Combine(downloadsPath, fileName);

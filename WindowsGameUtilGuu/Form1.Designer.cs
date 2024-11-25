@@ -96,11 +96,12 @@
             this.BtnTelemetry.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnTelemetry.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnTelemetry.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnTelemetry.Font = new System.Drawing.Font("CPMono_v07 Plain", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnTelemetry.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnTelemetry.ForeColor = System.Drawing.Color.White;
-            this.BtnTelemetry.Location = new System.Drawing.Point(95, 355);
+            this.BtnTelemetry.Location = new System.Drawing.Point(127, 437);
+            this.BtnTelemetry.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnTelemetry.Name = "BtnTelemetry";
-            this.BtnTelemetry.Size = new System.Drawing.Size(272, 57);
+            this.BtnTelemetry.Size = new System.Drawing.Size(363, 70);
             this.BtnTelemetry.TabIndex = 5;
             this.BtnTelemetry.Text = "Disable Telemetry";
             this.toolTip1.SetToolTip(this.BtnTelemetry, "Disable all data collection");
@@ -114,11 +115,12 @@
             this.Btn7zip.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Btn7zip.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.Btn7zip.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn7zip.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Btn7zip.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Btn7zip.ForeColor = System.Drawing.Color.White;
-            this.Btn7zip.Location = new System.Drawing.Point(469, 40);
+            this.Btn7zip.Location = new System.Drawing.Point(625, 49);
+            this.Btn7zip.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn7zip.Name = "Btn7zip";
-            this.Btn7zip.Size = new System.Drawing.Size(272, 57);
+            this.Btn7zip.Size = new System.Drawing.Size(363, 70);
             this.Btn7zip.TabIndex = 7;
             this.Btn7zip.Text = "Install 7-Zip";
             this.Btn7zip.UseVisualStyleBackColor = false;
@@ -131,11 +133,12 @@
             this.BtnDisableDriverUpdates.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnDisableDriverUpdates.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnDisableDriverUpdates.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnDisableDriverUpdates.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnDisableDriverUpdates.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnDisableDriverUpdates.ForeColor = System.Drawing.Color.White;
-            this.BtnDisableDriverUpdates.Location = new System.Drawing.Point(95, 292);
+            this.BtnDisableDriverUpdates.Location = new System.Drawing.Point(127, 359);
+            this.BtnDisableDriverUpdates.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnDisableDriverUpdates.Name = "BtnDisableDriverUpdates";
-            this.BtnDisableDriverUpdates.Size = new System.Drawing.Size(272, 57);
+            this.BtnDisableDriverUpdates.Size = new System.Drawing.Size(363, 70);
             this.BtnDisableDriverUpdates.TabIndex = 6;
             this.BtnDisableDriverUpdates.Text = "Disable Driver Updates";
             this.toolTip1.SetToolTip(this.BtnDisableDriverUpdates, "Do not install drivers via windows update.");
@@ -149,11 +152,12 @@
             this.BtnTransparency.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnTransparency.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnTransparency.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnTransparency.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnTransparency.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnTransparency.ForeColor = System.Drawing.Color.White;
-            this.BtnTransparency.Location = new System.Drawing.Point(95, 229);
+            this.BtnTransparency.Location = new System.Drawing.Point(127, 282);
+            this.BtnTransparency.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnTransparency.Name = "BtnTransparency";
-            this.BtnTransparency.Size = new System.Drawing.Size(272, 57);
+            this.BtnTransparency.Size = new System.Drawing.Size(363, 70);
             this.BtnTransparency.TabIndex = 4;
             this.BtnTransparency.Text = "Disable Transparency";
             this.toolTip1.SetToolTip(this.BtnTransparency, "Disable transparency effects. (Minimize cpu cycles)");
@@ -167,11 +171,12 @@
             this.BtnDisableSearchIndex.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnDisableSearchIndex.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnDisableSearchIndex.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnDisableSearchIndex.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnDisableSearchIndex.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnDisableSearchIndex.ForeColor = System.Drawing.Color.White;
-            this.BtnDisableSearchIndex.Location = new System.Drawing.Point(95, 166);
+            this.BtnDisableSearchIndex.Location = new System.Drawing.Point(127, 204);
+            this.BtnDisableSearchIndex.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnDisableSearchIndex.Name = "BtnDisableSearchIndex";
-            this.BtnDisableSearchIndex.Size = new System.Drawing.Size(272, 57);
+            this.BtnDisableSearchIndex.Size = new System.Drawing.Size(363, 70);
             this.BtnDisableSearchIndex.TabIndex = 3;
             this.BtnDisableSearchIndex.Text = "Disable Search Indexing";
             this.toolTip1.SetToolTip(this.BtnDisableSearchIndex, "Disable Windows Search Indexing Service");
@@ -185,11 +190,12 @@
             this.BtnDisableSysmain.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnDisableSysmain.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnDisableSysmain.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnDisableSysmain.Font = new System.Drawing.Font("CPMono_v07 Plain", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnDisableSysmain.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnDisableSysmain.ForeColor = System.Drawing.Color.White;
-            this.BtnDisableSysmain.Location = new System.Drawing.Point(95, 103);
+            this.BtnDisableSysmain.Location = new System.Drawing.Point(127, 127);
+            this.BtnDisableSysmain.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnDisableSysmain.Name = "BtnDisableSysmain";
-            this.BtnDisableSysmain.Size = new System.Drawing.Size(272, 57);
+            this.BtnDisableSysmain.Size = new System.Drawing.Size(363, 70);
             this.BtnDisableSysmain.TabIndex = 2;
             this.BtnDisableSysmain.Text = "Disable SysMain";
             this.toolTip1.SetToolTip(this.BtnDisableSysmain, "Disable SuperFetch\r\n\r\nRUN JUST IF YOU HAVE A SSD\r\n");
@@ -204,13 +210,14 @@
             this.BtnDisableDefender.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnDisableDefender.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnDisableDefender.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnDisableDefender.Font = new System.Drawing.Font("CPMono_v07 Plain", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnDisableDefender.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnDisableDefender.ForeColor = System.Drawing.Color.White;
-            this.BtnDisableDefender.Location = new System.Drawing.Point(95, 40);
+            this.BtnDisableDefender.Location = new System.Drawing.Point(127, 49);
+            this.BtnDisableDefender.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnDisableDefender.Name = "BtnDisableDefender";
-            this.BtnDisableDefender.Size = new System.Drawing.Size(272, 57);
+            this.BtnDisableDefender.Size = new System.Drawing.Size(363, 70);
             this.BtnDisableDefender.TabIndex = 8;
-            this.BtnDisableDefender.Text = "Disable Defender";
+            this.BtnDisableDefender.Text = "Disable Defender \r\n(Not Working)";
             this.toolTip1.SetToolTip(this.BtnDisableDefender, "Disable All Windows Defender Services\r\n \r\n\r\nMAKE SURE TO RUN IN SAFE MODE WITH MI" +
         "NSUDO!!!");
             this.BtnDisableDefender.UseVisualStyleBackColor = false;
@@ -223,11 +230,12 @@
             this.BtnAutoruns.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnAutoruns.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnAutoruns.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnAutoruns.Font = new System.Drawing.Font("CPMono_v07 Plain", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnAutoruns.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnAutoruns.ForeColor = System.Drawing.Color.White;
-            this.BtnAutoruns.Location = new System.Drawing.Point(469, 103);
+            this.BtnAutoruns.Location = new System.Drawing.Point(625, 127);
+            this.BtnAutoruns.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnAutoruns.Name = "BtnAutoruns";
-            this.BtnAutoruns.Size = new System.Drawing.Size(272, 57);
+            this.BtnAutoruns.Size = new System.Drawing.Size(363, 70);
             this.BtnAutoruns.TabIndex = 9;
             this.BtnAutoruns.Text = "Install Autoruns";
             this.BtnAutoruns.UseVisualStyleBackColor = false;
@@ -240,11 +248,12 @@
             this.BtnBackgroundApps.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnBackgroundApps.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnBackgroundApps.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnBackgroundApps.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnBackgroundApps.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnBackgroundApps.ForeColor = System.Drawing.Color.White;
-            this.BtnBackgroundApps.Location = new System.Drawing.Point(95, 422);
+            this.BtnBackgroundApps.Location = new System.Drawing.Point(127, 519);
+            this.BtnBackgroundApps.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnBackgroundApps.Name = "BtnBackgroundApps";
-            this.BtnBackgroundApps.Size = new System.Drawing.Size(272, 57);
+            this.BtnBackgroundApps.Size = new System.Drawing.Size(363, 70);
             this.BtnBackgroundApps.TabIndex = 10;
             this.BtnBackgroundApps.Text = "Disable Background Apps";
             this.toolTip1.SetToolTip(this.BtnBackgroundApps, "Disable Windows BackgroundApps ");
@@ -258,11 +267,12 @@
             this.BtnInstallWebview.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnInstallWebview.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnInstallWebview.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnInstallWebview.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnInstallWebview.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnInstallWebview.ForeColor = System.Drawing.Color.White;
-            this.BtnInstallWebview.Location = new System.Drawing.Point(469, 292);
+            this.BtnInstallWebview.Location = new System.Drawing.Point(625, 359);
+            this.BtnInstallWebview.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnInstallWebview.Name = "BtnInstallWebview";
-            this.BtnInstallWebview.Size = new System.Drawing.Size(272, 57);
+            this.BtnInstallWebview.Size = new System.Drawing.Size(363, 70);
             this.BtnInstallWebview.TabIndex = 11;
             this.BtnInstallWebview.Text = "Install WebView Runtime";
             this.BtnInstallWebview.UseVisualStyleBackColor = false;
@@ -275,11 +285,12 @@
             this.BtnInstallDirectx.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnInstallDirectx.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnInstallDirectx.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnInstallDirectx.Font = new System.Drawing.Font("CPMono_v07 Plain", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnInstallDirectx.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnInstallDirectx.ForeColor = System.Drawing.Color.White;
-            this.BtnInstallDirectx.Location = new System.Drawing.Point(469, 166);
+            this.BtnInstallDirectx.Location = new System.Drawing.Point(625, 204);
+            this.BtnInstallDirectx.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnInstallDirectx.Name = "BtnInstallDirectx";
-            this.BtnInstallDirectx.Size = new System.Drawing.Size(272, 57);
+            this.BtnInstallDirectx.Size = new System.Drawing.Size(363, 70);
             this.BtnInstallDirectx.TabIndex = 12;
             this.BtnInstallDirectx.Text = "Install DirectX";
             this.BtnInstallDirectx.UseVisualStyleBackColor = false;
@@ -292,11 +303,12 @@
             this.BtnVisualRuntime.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnVisualRuntime.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnVisualRuntime.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnVisualRuntime.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnVisualRuntime.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnVisualRuntime.ForeColor = System.Drawing.Color.White;
-            this.BtnVisualRuntime.Location = new System.Drawing.Point(469, 229);
+            this.BtnVisualRuntime.Location = new System.Drawing.Point(625, 282);
+            this.BtnVisualRuntime.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnVisualRuntime.Name = "BtnVisualRuntime";
-            this.BtnVisualRuntime.Size = new System.Drawing.Size(272, 57);
+            this.BtnVisualRuntime.Size = new System.Drawing.Size(363, 70);
             this.BtnVisualRuntime.TabIndex = 13;
             this.BtnVisualRuntime.Text = "Install VisualC++ Runtime";
             this.BtnVisualRuntime.UseVisualStyleBackColor = false;
@@ -309,11 +321,12 @@
             this.BtnDiscordLink.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnDiscordLink.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnDiscordLink.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnDiscordLink.Font = new System.Drawing.Font("CPMono_v07 Plain", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnDiscordLink.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnDiscordLink.ForeColor = System.Drawing.Color.White;
-            this.BtnDiscordLink.Location = new System.Drawing.Point(467, 480);
+            this.BtnDiscordLink.Location = new System.Drawing.Point(623, 591);
+            this.BtnDiscordLink.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnDiscordLink.Name = "BtnDiscordLink";
-            this.BtnDiscordLink.Size = new System.Drawing.Size(272, 57);
+            this.BtnDiscordLink.Size = new System.Drawing.Size(363, 70);
             this.BtnDiscordLink.TabIndex = 15;
             this.BtnDiscordLink.Text = "My Discord Server";
             this.BtnDiscordLink.UseVisualStyleBackColor = false;
@@ -322,17 +335,19 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(356, 349);
+            this.label1.Location = new System.Drawing.Point(475, 430);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 13);
+            this.label1.Size = new System.Drawing.Size(0, 16);
             this.label1.TabIndex = 31;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(54, 12);
+            this.label2.Location = new System.Drawing.Point(72, 15);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(0, 13);
+            this.label2.Size = new System.Drawing.Size(0, 16);
             this.label2.TabIndex = 32;
             // 
             // panel1
@@ -345,8 +360,9 @@
             this.panel1.Controls.Add(this.label2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(751, 34);
+            this.panel1.Size = new System.Drawing.Size(1001, 41);
             this.panel1.TabIndex = 33;
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             this.panel1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
@@ -355,12 +371,13 @@
             // TitleLabel
             // 
             this.TitleLabel.AutoSize = true;
-            this.TitleLabel.Font = new System.Drawing.Font("CPMono_v07 Plain", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TitleLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TitleLabel.ForeColor = System.Drawing.Color.White;
             this.TitleLabel.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.TitleLabel.Location = new System.Drawing.Point(11, 6);
+            this.TitleLabel.Location = new System.Drawing.Point(15, 7);
+            this.TitleLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.TitleLabel.Name = "TitleLabel";
-            this.TitleLabel.Size = new System.Drawing.Size(139, 19);
+            this.TitleLabel.Size = new System.Drawing.Size(129, 25);
             this.TitleLabel.TabIndex = 35;
             this.TitleLabel.Text = "dsc.gg/guuoti";
             this.TitleLabel.Click += new System.EventHandler(this.label5_Click);
@@ -372,11 +389,12 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label4.Font = new System.Drawing.Font("CPMono_v07 Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(664, 2);
+            this.label4.Location = new System.Drawing.Point(892, -8);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(32, 32);
+            this.label4.Size = new System.Drawing.Size(36, 39);
             this.label4.TabIndex = 34;
             this.label4.Text = "_";
             this.label4.Click += new System.EventHandler(this.label4_Click);
@@ -385,11 +403,12 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label3.Font = new System.Drawing.Font("CPMono_v07 Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(702, 4);
+            this.label3.Location = new System.Drawing.Point(936, 3);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(29, 29);
+            this.label3.Size = new System.Drawing.Size(36, 36);
             this.label3.TabIndex = 33;
             this.label3.Text = "X";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -403,9 +422,10 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(9, 44);
+            this.pictureBox1.Location = new System.Drawing.Point(12, 54);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox1.Size = new System.Drawing.Size(107, 65);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 34;
             this.pictureBox1.TabStop = false;
@@ -413,9 +433,10 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(383, 44);
+            this.pictureBox2.Location = new System.Drawing.Point(511, 54);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox2.Size = new System.Drawing.Size(107, 65);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 35;
             this.pictureBox2.TabStop = false;
@@ -423,9 +444,10 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(9, 111);
+            this.pictureBox3.Location = new System.Drawing.Point(12, 137);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox3.Size = new System.Drawing.Size(107, 65);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 36;
             this.pictureBox3.TabStop = false;
@@ -433,9 +455,10 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(9, 178);
+            this.pictureBox4.Location = new System.Drawing.Point(12, 219);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox4.Size = new System.Drawing.Size(107, 65);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 37;
             this.pictureBox4.TabStop = false;
@@ -443,9 +466,10 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(9, 237);
+            this.pictureBox5.Location = new System.Drawing.Point(12, 292);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox5.Size = new System.Drawing.Size(107, 65);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 38;
             this.pictureBox5.TabStop = false;
@@ -453,9 +477,10 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(9, 296);
+            this.pictureBox6.Location = new System.Drawing.Point(12, 364);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox6.Size = new System.Drawing.Size(107, 65);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox6.TabIndex = 39;
             this.pictureBox6.TabStop = false;
@@ -464,9 +489,10 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
-            this.pictureBox7.Location = new System.Drawing.Point(9, 359);
+            this.pictureBox7.Location = new System.Drawing.Point(12, 442);
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox7.Size = new System.Drawing.Size(107, 65);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox7.TabIndex = 40;
             this.pictureBox7.TabStop = false;
@@ -474,9 +500,10 @@
             // pictureBox8
             // 
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
-            this.pictureBox8.Location = new System.Drawing.Point(9, 422);
+            this.pictureBox8.Location = new System.Drawing.Point(12, 519);
+            this.pictureBox8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox8.Size = new System.Drawing.Size(107, 65);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox8.TabIndex = 41;
             this.pictureBox8.TabStop = false;
@@ -484,9 +511,10 @@
             // pictureBox10
             // 
             this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
-            this.pictureBox10.Location = new System.Drawing.Point(381, 107);
+            this.pictureBox10.Location = new System.Drawing.Point(508, 132);
+            this.pictureBox10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox10.Size = new System.Drawing.Size(107, 65);
             this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox10.TabIndex = 43;
             this.pictureBox10.TabStop = false;
@@ -494,9 +522,10 @@
             // pictureBox11
             // 
             this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
-            this.pictureBox11.Location = new System.Drawing.Point(381, 170);
+            this.pictureBox11.Location = new System.Drawing.Point(508, 209);
+            this.pictureBox11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox11.Size = new System.Drawing.Size(107, 65);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox11.TabIndex = 44;
             this.pictureBox11.TabStop = false;
@@ -504,9 +533,10 @@
             // pictureBox12
             // 
             this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
-            this.pictureBox12.Location = new System.Drawing.Point(381, 233);
+            this.pictureBox12.Location = new System.Drawing.Point(508, 287);
+            this.pictureBox12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox12.Size = new System.Drawing.Size(107, 65);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox12.TabIndex = 45;
             this.pictureBox12.TabStop = false;
@@ -514,9 +544,10 @@
             // pictureBox13
             // 
             this.pictureBox13.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox13.Image")));
-            this.pictureBox13.Location = new System.Drawing.Point(381, 296);
+            this.pictureBox13.Location = new System.Drawing.Point(508, 364);
+            this.pictureBox13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox13.Size = new System.Drawing.Size(107, 65);
             this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox13.TabIndex = 46;
             this.pictureBox13.TabStop = false;
@@ -524,9 +555,10 @@
             // pictureBox14
             // 
             this.pictureBox14.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox14.Image")));
-            this.pictureBox14.Location = new System.Drawing.Point(381, 481);
+            this.pictureBox14.Location = new System.Drawing.Point(508, 592);
+            this.pictureBox14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox14.Size = new System.Drawing.Size(107, 65);
             this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox14.TabIndex = 47;
             this.pictureBox14.TabStop = false;
@@ -534,9 +566,10 @@
             // pictureBox15
             // 
             this.pictureBox15.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox15.Image")));
-            this.pictureBox15.Location = new System.Drawing.Point(381, 359);
+            this.pictureBox15.Location = new System.Drawing.Point(508, 442);
+            this.pictureBox15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox15.Size = new System.Drawing.Size(107, 65);
             this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox15.TabIndex = 48;
             this.pictureBox15.TabStop = false;
@@ -544,9 +577,10 @@
             // pictureBox16
             // 
             this.pictureBox16.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox16.Image")));
-            this.pictureBox16.Location = new System.Drawing.Point(381, 418);
+            this.pictureBox16.Location = new System.Drawing.Point(508, 514);
+            this.pictureBox16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox16.Size = new System.Drawing.Size(107, 65);
             this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox16.TabIndex = 49;
             this.pictureBox16.TabStop = false;
@@ -558,11 +592,12 @@
             this.BtnAmdDriver.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnAmdDriver.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnAmdDriver.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnAmdDriver.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnAmdDriver.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnAmdDriver.ForeColor = System.Drawing.Color.White;
-            this.BtnAmdDriver.Location = new System.Drawing.Point(467, 355);
+            this.BtnAmdDriver.Location = new System.Drawing.Point(623, 437);
+            this.BtnAmdDriver.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnAmdDriver.Name = "BtnAmdDriver";
-            this.BtnAmdDriver.Size = new System.Drawing.Size(272, 57);
+            this.BtnAmdDriver.Size = new System.Drawing.Size(363, 70);
             this.BtnAmdDriver.TabIndex = 50;
             this.BtnAmdDriver.Text = "Install AMD Driver   + Guide";
             this.BtnAmdDriver.UseVisualStyleBackColor = false;
@@ -575,11 +610,12 @@
             this.button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("CPMono_v07 Plain", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(467, 418);
+            this.button2.Location = new System.Drawing.Point(623, 514);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(272, 57);
+            this.button2.Size = new System.Drawing.Size(363, 70);
             this.button2.TabIndex = 51;
             this.button2.Text = "Install NVIDIA Driver + Guide";
             this.button2.UseVisualStyleBackColor = false;
@@ -591,11 +627,12 @@
             this.BtnYoutubeGuide.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.BtnYoutubeGuide.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.BtnYoutubeGuide.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnYoutubeGuide.Font = new System.Drawing.Font("CPMono_v07 Plain", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnYoutubeGuide.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnYoutubeGuide.ForeColor = System.Drawing.Color.White;
-            this.BtnYoutubeGuide.Location = new System.Drawing.Point(95, 481);
+            this.BtnYoutubeGuide.Location = new System.Drawing.Point(127, 592);
+            this.BtnYoutubeGuide.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnYoutubeGuide.Name = "BtnYoutubeGuide";
-            this.BtnYoutubeGuide.Size = new System.Drawing.Size(272, 57);
+            this.BtnYoutubeGuide.Size = new System.Drawing.Size(363, 70);
             this.BtnYoutubeGuide.TabIndex = 52;
             this.BtnYoutubeGuide.Text = "My Windows Guide";
             this.BtnYoutubeGuide.UseVisualStyleBackColor = false;
@@ -604,19 +641,20 @@
             // pictureBox9
             // 
             this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
-            this.pictureBox9.Location = new System.Drawing.Point(9, 484);
+            this.pictureBox9.Location = new System.Drawing.Point(12, 596);
+            this.pictureBox9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(80, 53);
+            this.pictureBox9.Size = new System.Drawing.Size(107, 65);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox9.TabIndex = 53;
             this.pictureBox9.TabStop = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(751, 545);
+            this.ClientSize = new System.Drawing.Size(1001, 671);
             this.Controls.Add(this.pictureBox9);
             this.Controls.Add(this.BtnYoutubeGuide);
             this.Controls.Add(this.button2);
@@ -653,6 +691,7 @@
             this.Controls.Add(this.BtnDisableSysmain);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.panel1.ResumeLayout(false);
